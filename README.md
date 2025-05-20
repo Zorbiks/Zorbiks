@@ -7,7 +7,10 @@
 
 
 ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorbiks&layout=compact&theme=dracula&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorbiks&layout=compact&theme=vue-dark&langs_count=5)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=Zorbiks&layout=compact&theme=vue-dark&langs_count=5)
+
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
