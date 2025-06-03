@@ -17,10 +17,29 @@
 <br><br>
 
 <div align="center">
-  <h1>Skills</h1>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="">
-  <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=7952b3" alt="">
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4" alt="">
-  <img src="https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624" alt="">
-  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&color=4479a1" alt="">
+  <h1>Languages</h1>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&&style=for-the-badge" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&&style=for-the-badge" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&&style=for-the-badge" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&&style=for-the-badge" alt="SQL">
+</div>
+
+<br><br>
+
+<div align="center">
+  <h1>Frameworks</h1>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&&style=for-the-badge" alt="Bootstrap">
+</div>
+
+<br><br>
+
+<div align="center">
+  <h1>Tools</h1>
+  <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=VSCodium&logoColor=white&&style=for-the-badge" alt="VSCodium">
+  <img src="https://img.shields.io/badge/GIT-F05032?logo=GIT&logoColor=white&&style=for-the-badge" alt="GIT">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/Terminal-241F31?logo=GnomeTerminal&logoColor=white&&style=for-the-badge" alt="Terminal">
+  <img src="https://img.shields.io/badge/GNU/Linux-FCC624?logo=Linux&logoColor=black&&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/ArchLinux-1793D1?logo=ArchLinux&logoColor=white&&style=for-the-badge" alt="SQL">
 </div>
