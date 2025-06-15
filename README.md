@@ -30,6 +30,7 @@
 <div align="center">
   <h1>Frameworks</h1>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&&style=for-the-badge" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-61dbfb?logo=React&logoColor=black&&style=for-the-badge" alt="React">
 </div>
 
 <br><br>
