@@ -8,8 +8,8 @@
   <h1>Github Stats</h1>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorbiks&layout=compact&theme=vue-dark&langs_count=5" alt="Top Langs"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/?username=Zorbiks&layout=compact&theme=vue-dark&langs_count=5" alt="Github Stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorbiks&layout=compact&theme=vue-dark&langs_count=6" alt="Top Langs"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/?username=Zorbiks&layout=compact&theme=vue-dark&langs_count=6" alt="Github Stats"></td>
     </tr>
   </table>
 </div>
