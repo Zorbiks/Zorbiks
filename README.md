@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&&style=for-the-badge" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&&style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Bash-241F31?logo=GnomeTerminal&logoColor=white&&style=for-the-badge" alt="Bash">
 </div>
 
 <br><br>
@@ -42,5 +43,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&&style=for-the-badge" alt="GitHub">
   <img src="https://img.shields.io/badge/Terminal-241F31?logo=GnomeTerminal&logoColor=white&&style=for-the-badge" alt="Terminal">
   <img src="https://img.shields.io/badge/GNU/Linux-FCC624?logo=Linux&logoColor=black&&style=for-the-badge" alt="Linux">
-  <img src="https://img.shields.io/badge/ArchLinux-1793D1?logo=ArchLinux&logoColor=white&&style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/ArchLinux-1793D1?logo=ArchLinux&logoColor=white&&style=for-the-badge" alt="ArchLinux">
 </div>
