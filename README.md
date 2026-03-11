@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&&style=for-the-badge" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&&style=for-the-badge" alt="SQL">
   <img src="https://img.shields.io/badge/Bash-241F31?logo=GnomeTerminal&logoColor=white&&style=for-the-badge" alt="Bash">
+  <img src="https://img.shields.io/badge/Python-366B97?logo=Python&logoColor=white&&style=for-the-badge" alt="Python">
 </div>
 
 <br><br>
