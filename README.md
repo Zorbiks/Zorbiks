@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.webp" alt="Banner">
+  <img src="./banner.webp" alt="Banner">
 </div>
 
 <br><br>
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/GIT-F05032?logo=GIT&logoColor=white&&style=for-the-badge" alt="GIT">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&&style=for-the-badge" alt="GitHub">
   <img src="https://img.shields.io/badge/Terminal-241F31?logo=GnomeTerminal&logoColor=white&&style=for-the-badge" alt="Terminal">
+  <img src="https://img.shields.io/badge/Docker-008de4?logo=Docker&logoColor=white&&style=for-the-badge" alt="Docker">
   <img src="https://img.shields.io/badge/GNU/Linux-FCC624?logo=Linux&logoColor=black&&style=for-the-badge" alt="Linux">
   <img src="https://img.shields.io/badge/ArchLinux-1793D1?logo=ArchLinux&logoColor=white&&style=for-the-badge" alt="ArchLinux">
 </div>
